@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JD Scorer Bot 🎯
 
 A Telegram bot that scores a candidate's resume against a job description using Hugging Face and Gemini AI. It returns a score out of 10, a weighted dimension breakdown, detected skills, identified gaps, and prioritised senior-level recruiter recommendations — powered by ATS-style analysis.
@@ -132,3 +133,6 @@ Incorporating the missing ATS keywords and surfacing at least one explicit Docke
 - **English optimised** — the rubric and keyword detection are tuned for English-language JDs and resumes.
 - **No persistent storage** — stored JD lives only for the current bot session. If the bot restarts, use `/start` to re-enter the JD.
 - **Rate limits** — heavy concurrent usage may hit Anthropic rate limits; the bot will prompt you to retry after 30 seconds.
+=======
+
+>>>>>>> cbeb410d86bc32e1fe4cb029502aa20d16133a56
