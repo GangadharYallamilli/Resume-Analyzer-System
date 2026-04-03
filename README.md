@@ -135,4 +135,4 @@ Incorporating the missing ATS keywords and surfacing at least one explicit Docke
 - **Rate limits** — heavy concurrent usage may hit Anthropic rate limits; the bot will prompt you to retry after 30 seconds.
 =======
 
->>>>>>> cbeb410d86bc32e1fe4cb029502aa20d16133a56
+Author: Gangadhar Yallamilli
